@@ -1,0 +1,21 @@
+html{
+        background-color: aliceblue;
+}
+
+.cabecalho{
+    width: 100%;
+}
+
+.cabecalho img{
+    width: 40%;
+    position: relative;
+    left: 30%;
+}
+
+.menu{
+    background-color:black
+}
+
+.menu a{
+    color: white;
+}
